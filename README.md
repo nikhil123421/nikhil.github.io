@@ -1,5 +1,9 @@
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">body {
+  background: #FEF8F8;
+}
+.amex {
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAeCAMAAABdem3zAAAAA3NCSVQICAjb4U/gAAACi1BMVEUAAAAAAAAAdKIAdqcGdqoDeqkDeKoDe6sFe
 
 <div class="container">
   <div id="Checkout" class="inline">
@@ -54,5 +58,4 @@
           </button>
       </form>
   </div>
-  git clone https://github.com/username/username.github.io
 </div>
